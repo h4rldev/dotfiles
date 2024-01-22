@@ -1,0 +1,16 @@
+zsh
+base-devel
+git
+
+hyprland
+xorg-xwayland
+wlroots
+xdg-desktop-portal-hyprland
+waybar
+
+greetd
+greetd-regreet
+
+mako
+kitty
+neovim
