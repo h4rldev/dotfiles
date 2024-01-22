@@ -18,6 +18,6 @@ These dotfiles are for:
 
 ## How to install
 - wget:
-    - `sh -c "$(wget -qO- "")"`
+    - `sh -c "$(wget -qO- "https://raw.githubusercontent.com/h4rldev/dotfiles/main/install.sh")"`
 - curl:
-    - `sh -c "$(curl -fsSL "")"`
+    - `sh -c "$(curl -fsSL "https://raw.githubusercontent.com/h4rldev/dotfiles/main/install.sh")"`
