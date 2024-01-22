@@ -18,14 +18,6 @@ These dotfiles are for:
 
 ## How to install
 - wget:
-<<<<<<< HEAD
-    - ```sh
-        sh -c "$(wget -qO- "")"
-- curl:
-    - ```sh
-        sh -c "$(curl -fsSL "")"
-=======
     - `sh -c "$(wget -qO- "")"`
 - curl:
     - `sh -c "$(curl -fsSL "")"`
->>>>>>> 6978b79 (Unfuck readme i hope x2)
