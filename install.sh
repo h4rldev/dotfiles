@@ -9,11 +9,14 @@ ROOT_PACKAGE_MANAGER="pacman"
 CONFIG_DIR="$(pwd)/.config/"
 RESOURCES="$(pwd)/resources"
 
+
 if command -v sudo >/dev/null; then
   sudo -K
 else
   alias sudo=doas
 fi
+
+clear
 
 
 RED='\033[0;31m'
