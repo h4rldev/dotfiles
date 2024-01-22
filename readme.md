@@ -19,9 +19,7 @@ These dotfiles are for:
 ## How to install
 - wget:
     - ```sh
-        sh -c "$(wget -qO- "")"
-    ```
+        sh -c "$(wget -qO- "")"```
 - curl:
     - ```sh
-        sh -c "$(curl -fsSL "")"
-    ```
+        sh -c "$(curl -fsSL "")"```
