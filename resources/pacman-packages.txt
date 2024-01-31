@@ -1,6 +1,4 @@
 zsh
-base-devel
-git
 
 hyprland
 xorg-xwayland
